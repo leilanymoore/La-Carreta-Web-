@@ -1,0 +1,23 @@
+* {padding:0;margin:0;}
+h1 {color:chocolate;}
+a {color:rgba(255,255,255,1);
+   margin-left:20px;
+   margin-right:20px;
+   font-size:20px;
+   text-decoration:none;
+}
+
+#navbar {
+  background-color:rgb(117,76,20);
+  width:200%;
+  height:50px;
+  
+}
+
+body {
+background-color: #eadbc8;
+}
+
+h2 {
+  font-family: 'Water Brush', cursive;
+}
